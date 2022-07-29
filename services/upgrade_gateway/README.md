@@ -30,6 +30,7 @@ The upgrade gateway canister stores every update as an Event in its history. The
 - **add_admin**: Used to add a new admin to the Admins vector of the module.
 - **remove_admin**: Used to remove an admin from the Admins vector of the module.
 - **call**: Used to forward calls to the management canister. Supports calls to these methods on the management canister: (start_canister, stop_canister, uninstall_code, delete_canister, install_code, delete_canister, and uninstall_code)
+- **get_history**: Used to access the history of events.
 
 ## Code Upgrades
 
