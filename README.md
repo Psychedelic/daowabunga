@@ -13,7 +13,7 @@ Daowabunga is a cross-chain, modular web3 DAO framework, leveraging the Internet
 
 ## Modules:
 
-With Daowabunga we encourage you to integrate as few or as many modules (called **toppings**) as your heart desires. We're building each topping as an easily extendable. Many more toppings will be added in the future, and the community is encouraged to integrate their own to make for a real plug-in economy.
+With Daowabunga we encourage developers to integrate as few or as many modules as your heart desires. We're building each core module as an easily extendable piece of your DAOs larger pie. We strongly encourage the community to build modules of their own through our plugin economy (which we're calling **toppings**). Many more toppings will be added in the future, including messenger services (like [Terabethia](https://terabethia.ooo) for cross-chain orchestration.
 
 **Charging Station:** Ensures target canisters’ cycles balance never falls below a certain threshold 
 
