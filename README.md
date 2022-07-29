@@ -6,7 +6,7 @@
 
 Daowabunga is a cross-chain, modular web3 DAO framework, leveraging the Internet Computer to orchestrate ownership and management of smart contracts, assets, accounts, data, infra, and deceisions in a decentralized manner. 
 
-- **Website:** https://daowabunga.ooo
+- **Website:** https://daowabunga.xyz
 - **Twitter:** https://twitter.com/daowabunga
 - **Discord:** https://discord.com/invite/psychedelic
 
